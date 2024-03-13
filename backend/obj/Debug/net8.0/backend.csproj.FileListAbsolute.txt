@@ -31,3 +31,4 @@ C:\Users\kjl\Desktop\finshark\backend\obj\Debug\net8.0\refint\backend.dll
 C:\Users\kjl\Desktop\finshark\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\kjl\Desktop\finshark\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\kjl\Desktop\finshark\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\kjl\Desktop\finshark\backend\obj\Debug\net8.0\backend.sourcelink.json
