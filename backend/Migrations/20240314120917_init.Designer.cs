@@ -12,7 +12,7 @@ using backend.Data;
 namespace backend.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20240314025334_init")]
+    [Migration("20240314120917_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -85,7 +85,7 @@ namespace backend.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Stock");
+                    b.ToTable("Stocks");
                 });
 
             modelBuilder.Entity("backend.Models.Comment", b =>
